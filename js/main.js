@@ -506,3 +506,7 @@
     });
 
 })(jQuery);
+
+$(function(){
+    $('#datepicker').datepicker();
+  });
