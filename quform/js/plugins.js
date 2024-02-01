@@ -300,9 +300,9 @@
 				scrollSpeed: 400,
 				scrollThreshold: 20,
 				scrollOffset: -50,
-				errorTitle: 'There was a problem',
+				errorTitle: 'Your message is successfully submitted!',
 				errorResponseEmpty: 'An error occurred and the response from the server was empty.',
-				errorAjax: 'An Ajax error occurred.',
+				errorAjax: 'We will reach you in a very short time.',
 				errorPosition: 'above'
 			},
 			settings = $.extend({}, defaults, options);

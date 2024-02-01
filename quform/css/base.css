@@ -169,6 +169,7 @@ h3.quform-title {
 	font-size: 22px;
 	font-weight: bold;
 	margin: 0;
+	color: #fff;
 	padding-bottom: 8px;
 }
 
@@ -493,12 +494,12 @@ p.quform-group-description {
 	padding: 3px 10px 3px 25px;
 	margin: 0;
 	line-height: 16px;
-	background: #F3CAC7 url('../images/error.png') no-repeat 3px center;
+	background: #cef4a9 url('../images/success.png') no-repeat 3px center;
 	color: #000;
 	font-size: 12px;
 	font-weight: normal;
 	display: inline-block;
-	border: 1px solid #fa8b83;
+	border: 1px solid #80bb48;
 	float: left;
 }
 .quform-labels-left > .quform-spacer > .quform-errors-wrap {margin-left: 150px;}
@@ -610,12 +611,12 @@ p.quform-group-description {
 .quform-error-title {
 	font-size: 13px;
 	font-weight: bold;
-	color: #CC0000;
+	color: #fff;
 	margin-bottom: 8px;
 }
 .quform-error-message {
 	margin-bottom: 10px;
-	background: #F3CAC7;
+	background: #80bb48;
 	border: 1px solid #fa8b83;
 	color: #111;
 	padding: 8px;
