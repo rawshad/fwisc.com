@@ -3139,7 +3139,9 @@ h2.resp-accordion.resp-tab-active {
 .scrolling-text h4 {
   color: #fff;
   -webkit-text-stroke: 2px #ff497c;
-  text-stroke: 2px #ff497c; }
+  text-stroke: 2px #ff497c;
+  font-size : 3rem;
+}
 
 /* newsletter */
 .newsletter-form .quform-elements {
